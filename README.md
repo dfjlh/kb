@@ -1293,6 +1293,11 @@ CyberTalks</b></a> - talks, interviews, and article about cybersecurity.<br>
 &nbsp;&nbsp; <a href="https://github.com/insidetrust/statistically-likely-usernames"><b>statistically-likely-usernames</b></a> - wordlists for creating statistically likely username lists.<br>
 </p>
 
+###### :black_small_square: Personalized Wordlists tools
+<p>
+&nbsp;&nbsp; <a href="https://github.com/Mebus/cupp.git"><b>cupp</b></a> - for any kind of bruteforce find wordlists or unleash the power of them all at once!<br>
+</p>
+
 ##### :black_small_square: Bounty platforms
 
 <p>
