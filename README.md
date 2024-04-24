@@ -17,18 +17,20 @@ Only main chapters:
 - **[Web Tools](#web-tools-toc)**
 - **[Systems/Services](#systemsservices-toc)**
 - **[Networks](#networks-toc)**
-- **[Containers/Orchestration](#containersorchestration-toc)**
 - **[Manuals/Howtos/Tutorials](#manualshowtostutorials-toc)**
 - **[Inspiring Lists](#inspiring-lists-toc)**
-- **[Blogs/Podcasts/Videos](#blogspodcastsvideos-toc)**
 - **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
-- **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
 - **[Other Cheat Sheets](#other-cheat-sheets-toc)**
+- **[Shell generator](#shell-online-generator-toc)**
 - **[Shell One-liners](#shell-one-liners-toc)**
 - **[Shell Tricks](#shell-tricks-toc)**
 - **[Shell Functions](#shell-functions-toc)**
+- **[Your daily knowledge and news](#your-daily-knowledge-and-news-toc)**
+- **[Blogs/Podcasts/Videos](#blogspodcastsvideos-toc)**
+- **[Containers/Orchestration](#containersorchestration-toc)**
 
-## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
+  
+## :trident: &nbsp; Knowledge base (Chapters)
 
 #### CLI Tools &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
@@ -1579,6 +1581,10 @@ _Encoding_
 
 text :arrow_right: encoded<br>
 text :arrow_left: encoded
+
+#### Shell-online-generator &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+
+https://www.revshells.com/
 
 #### Shell One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
