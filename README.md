@@ -21,7 +21,7 @@ Only main chapters:
 - **[Inspiring Lists](#inspiring-lists-toc)**
 - **[Hacking/Penetration Testing](#hackingpenetration-testing-toc)**
 - **[Other Cheat Sheets](#other-cheat-sheets-toc)**
-- **[Shell generator](#shell-online-generator-toc)**
+                    - **[Shell generator](#shell-online-generator-toc)**
 - **[Shell One-liners](#shell-one-liners-toc)**
 - **[Shell Tricks](#shell-tricks-toc)**
 - **[Shell Functions](#shell-functions-toc)**
@@ -37,7 +37,7 @@ Only main chapters:
 ##### :black_small_square: Shells
 
 <p>
-&nbsp;&nbsp; <a href="https://www.gnu.org/software/bash/"><b>GNU Bash</b></a> - is an sh-compatible shell that incorporates useful features from the Korn shell and C shell.<br>
+&nbsp;&nbsp; <a href="https://www.gnu.org/software/bash/"><b>GNU Bash</b></a> - is an sh-compatible that incorporates useful features from the Korn and C shell.<br>
 &nbsp;&nbsp; <a href="https://www.zsh.org/"><b>Zsh</b></a> - is a shell designed for interactive use, although it is also a powerful scripting language.<br>
 &nbsp;&nbsp; <a href="https://tcl-lang.org/"><b>tclsh</b></a> - is a very powerful cross-platform shell, suitable for a huge range of uses.<br>
 &nbsp;&nbsp; <a href="https://github.com/Bash-it/bash-it"><b>bash-it</b></a> - is a framework for using, developing and maintaining shell scripts and custom commands.<br>
@@ -1587,9 +1587,12 @@ _Encoding_
 text :arrow_right: encoded<br>
 text :arrow_left: encoded
 
-#### Shell-online-generator &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
+##### Shell-online-generator &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
 https://www.revshells.com/
+
+##### php web shell
+https://github.com/b374k/b374k
 
 #### Shell One-liners &nbsp;[<sup>[TOC]</sup>](#anger-table-of-contents)
 
