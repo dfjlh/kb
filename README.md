@@ -1,3 +1,8 @@
+- <span style="background-color: #00ff00; display: inline-block; width: 12px; height: 12px; border: 1px solid #000;"></span> Add new stuff...
+- <span style="background-color: #ff0000; display: inline-block; width: 12px; height: 12px; border: 1px solid #000;"></span> Add useful shell functions
+- <span style="background-color: #ff6600; display: inline-block; width: 12px; height: 12px; border: 1px solid #000;"></span> Add one-liners for collection tools (eg. CLI Tools)
+- <span style="background-color: #ffcc00; display: inline-block; width: 12px; height: 12px; border: 1px solid #000;"></span> Sort order in lists
+
 
 ## :ballot_box_with_check: &nbsp;ToDo
 
