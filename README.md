@@ -1,9 +1,11 @@
-- ![ ] ![Light Blue](https://via.placeholder.com/15/ADD8E6/000000?text=+) Add new stuff...
-- ![ ] ![Diamond Green](https://via.placeholder.com/15/1C9963/000000?text=+) Add useful shell functions
-- ![ ] ![Orange](https://via.placeholder.com/15/FFA500/000000?text=+) Add one-liners for collection tools (eg. CLI Tools)
-- ![ ] ![Violet](https://via.placeholder.com/15/8A2BE2/000000?text=+) Sort order in lists
-- ![ ] ![Red](https://via.placeholder.com/15/FF0000/000000?text=+) Another color
-- ![ ] ![Rose](https://via.placeholder.com/15/FF007F/000000?text=+) Yet another color
+Marks based on the tool/resource usage and quiality level
+
+- ![ ] ![Light Blue](https://via.placeholder.com/15/ADD8E6/000000?text=+) Nothing special
+- ![ ] ![Diamond Green](https://via.placeholder.com/15/1C9963/000000?text=+) Usefull
+- ![ ] ![Orange](https://via.placeholder.com/15/FFA500/000000?text=+) To check
+- ![ ] ![Violet](https://via.placeholder.com/15/8A2BE2/000000?text=+) Everyday use
+- ![ ] ![Red](https://via.placeholder.com/15/FF0000/000000?text=+) Can be deleted
+- ![ ] ![Rose](https://via.placeholder.com/15/FF007F/000000?text=+) Recheck needed
 
 
 ## :ballot_box_with_check: &nbsp;ToDo
