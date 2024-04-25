@@ -2,13 +2,14 @@
 - ![ ] ![Diamond Green](https://via.placeholder.com/15/1C9963/000000?text=+) Add useful shell functions
 - ![ ] ![Orange](https://via.placeholder.com/15/FFA500/000000?text=+) Add one-liners for collection tools (eg. CLI Tools)
 - ![ ] ![Violet](https://via.placeholder.com/15/8A2BE2/000000?text=+) Sort order in lists
+- ![ ] ![Red](https://via.placeholder.com/15/FF0000/000000?text=+) Another color
+- ![ ] ![Rose](https://via.placeholder.com/15/FF007F/000000?text=+) Yet another color
+
 
 ## :ballot_box_with_check: &nbsp;ToDo
 
-- [ ] Add new stuff...
-- [ ] Add useful shell functions
-- [ ] Add one-liners for collection tools (eg. CLI Tools)
-- [ ] Sort order in lists
+- [ ] Discovery phase of the list
+- [ ] Sort the tools and whole list
 
 New items are also added on a regular basis.
 
